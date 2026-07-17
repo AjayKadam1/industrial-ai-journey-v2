@@ -46,6 +46,8 @@
 ## Log
 
 Use this section to jot quick notes as you go — what clicked, what was hard, what you'd revisit. This becomes useful both for you and for anyone (including an AI assistant) picking up context later.
+## Week 1
+ Learning of good basic concept of linear algebra. what is vector in physics, math and computer science. vector addition and multiplication. Matrix, rotation matrix, dot product of matrix. Cosine similarity and how it is useful to find similarity between 2 vectors. Matrix multiplication from For Loop and matrix multiplacation with numpy, how dows it affect total calculation time and why it is important to have library like numpy, pytorch or tensorflow.
 
 ### Week 1
 _(update after finishing)_
